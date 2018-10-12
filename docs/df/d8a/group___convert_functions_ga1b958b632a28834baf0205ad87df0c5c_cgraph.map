@@ -1,0 +1,5 @@
+<map id="conn::stringFromGPSPoint" name="conn::stringFromGPSPoint">
+<area shape="rect" id="node2" href="$d0/d99/group___test_functions.html#ga69a9c980a0872e4d8ddab02de852f221" title="conn::failIfNotAGPSPoint" alt="" coords="255,5,426,31"/>
+<area shape="rect" id="node4" href="$df/d8a/group___convert_functions.html#ga6e738c89b28d2bcf7585fd92c317cda6" title="conn::stringFromGPSCoordinate" alt="" coords="233,55,448,80"/>
+<area shape="rect" id="node3" href="$d0/d99/group___test_functions.html#ga6335f71428b9aa298fb49ae34e34b69c" title="conn::failIfNotAGPSCoordinate" alt="" coords="496,31,701,56"/>
+</map>

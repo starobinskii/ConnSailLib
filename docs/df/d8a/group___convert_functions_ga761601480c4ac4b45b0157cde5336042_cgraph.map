@@ -1,0 +1,5 @@
+<map id="conn::radiansFromGPSCoordinate" name="conn::radiansFromGPSCoordinate">
+<area shape="rect" id="node2" href="$df/d8a/group___convert_functions.html#ga0f032ef39e997706e19a216691d066f8" title="conn::radiansFromDegrees" alt="" coords="303,5,486,31"/>
+<area shape="rect" id="node3" href="$df/d8a/group___convert_functions.html#ga199068f230c88c099a5c303f85310586" title="conn::degreesFromGPSCoordinate" alt="" coords="279,55,510,80"/>
+<area shape="rect" id="node4" href="$d0/d99/group___test_functions.html#ga6335f71428b9aa298fb49ae34e34b69c" title="conn::failIfNotAGPSCoordinate" alt="" coords="558,55,763,80"/>
+</map>

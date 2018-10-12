@@ -1,0 +1,8 @@
+<map id="conn::failIfNotAGPSPoint" name="conn::failIfNotAGPSPoint">
+<area shape="rect" id="node2" href="$d5/d75/group___conn_namespace.html#ga552c737fe3970c9456a394b4b55538a2" title="conn::degreesFromGPSPoint" alt="" coords="224,5,419,31"/>
+<area shape="rect" id="node3" href="$d5/d75/group___conn_namespace.html#ga329b9219ebbbb2672cad39ba38809efb" title="conn::radiansFromGPSPoint" alt="" coords="226,55,417,80"/>
+<area shape="rect" id="node4" href="$d5/d75/group___conn_namespace.html#ga1b958b632a28834baf0205ad87df0c5c" title="conn::stringFromGPSPoint" alt="" coords="231,104,411,129"/>
+<area shape="rect" id="node6" href="$d5/d75/group___conn_namespace.html#ga77273f7a49456cc5f3ea46d02280f963" title="conn::calculateEarthRadius" alt="" coords="230,153,413,179"/>
+<area shape="rect" id="node7" href="$d5/d75/group___conn_namespace.html#ga3aced83e77ecfc1892728799ec321705" title="conn::distance" alt="" coords="268,203,375,228"/>
+<area shape="rect" id="node5" href="$d5/d75/group___conn_namespace.html#ga2d422b22d2fc6f687193729967645509" title="conn::printGPSPoint" alt="" coords="467,104,609,129"/>
+</map>

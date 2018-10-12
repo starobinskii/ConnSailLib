@@ -1,0 +1,8 @@
+<map id="conn::failIfNotAGPSPoint" name="conn::failIfNotAGPSPoint">
+<area shape="rect" id="node2" href="$df/d8a/group___convert_functions.html#gab9b8530b017e248ad1a0fb2bad4991a4" title="Converts GPS point to degrees (one&#45;value) " alt="" coords="224,5,419,31"/>
+<area shape="rect" id="node3" href="$df/d8a/group___convert_functions.html#gae265d8c52692491412186add1fe45467" title="Converts GPS point to radians (one&#45;value) " alt="" coords="226,55,417,80"/>
+<area shape="rect" id="node4" href="$df/d8a/group___convert_functions.html#ga382639366bea3efa970590c434b24a45" title="Converts GPS point to a string. " alt="" coords="231,104,411,129"/>
+<area shape="rect" id="node6" href="$d2/d0b/group___calculation_functions.html#ga7d4ec0a5a712deaf1b987cf802d667a8" title="Calculate Earth radius by GPS point. " alt="" coords="230,153,413,179"/>
+<area shape="rect" id="node7" href="$d2/d0b/group___calculation_functions.html#ga09c3b1252bce020fb22b21164a41d0c7" title="Calculates distance between two points. " alt="" coords="268,203,375,228"/>
+<area shape="rect" id="node5" href="$d2/dbc/group___interface_functions.html#ga06b69bfc7faa49c061d0f10d80e675be" title="Prints GPS point to stdout. " alt="" coords="467,104,609,129"/>
+</map>

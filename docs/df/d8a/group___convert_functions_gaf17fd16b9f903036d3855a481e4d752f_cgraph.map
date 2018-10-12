@@ -1,0 +1,4 @@
+<map id="conn::stringFromGPSCoordinate" name="conn::stringFromGPSCoordinate">
+<area shape="rect" id="node2" href="$df/d8a/group___convert_functions.html#ga24d9d9c30ffe841471b465ae40613232" title="Converts GPS coordinate to a string. " alt="" coords="268,5,483,31"/>
+<area shape="rect" id="node3" href="$d0/d99/group___test_functions.html#gada176f1cc3b5511efd02eed3cd89e6c0" title="Fails if the parameter is not an appropriate type. " alt="" coords="531,5,736,31"/>
+</map>

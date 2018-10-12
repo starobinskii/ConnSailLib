@@ -1,0 +1,4 @@
+<map id="conn::printGPSCoordinate" name="conn::printGPSCoordinate">
+<area shape="rect" id="node2" href="$d5/d75/group___conn_namespace.html#ga6e738c89b28d2bcf7585fd92c317cda6" title="conn::stringFromGPSCoordinate" alt="" coords="230,5,445,31"/>
+<area shape="rect" id="node3" href="$d5/d75/group___conn_namespace.html#ga6335f71428b9aa298fb49ae34e34b69c" title="conn::failIfNotAGPSCoordinate" alt="" coords="493,5,698,31"/>
+</map>

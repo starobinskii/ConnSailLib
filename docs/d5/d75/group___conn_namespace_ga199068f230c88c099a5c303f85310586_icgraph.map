@@ -1,0 +1,7 @@
+<map id="conn::degreesFromGPSCoordinate" name="conn::degreesFromGPSCoordinate">
+<area shape="rect" id="node2" href="$d5/d75/group___conn_namespace.html#ga761601480c4ac4b45b0157cde5336042" title="conn::radiansFromGPSCoordinate" alt="" coords="284,5,510,31"/>
+<area shape="rect" id="node3" href="$d5/d75/group___conn_namespace.html#ga552c737fe3970c9456a394b4b55538a2" title="conn::degreesFromGPSPoint" alt="" coords="299,55,494,80"/>
+<area shape="rect" id="node4" href="$d5/d75/group___conn_namespace.html#ga329b9219ebbbb2672cad39ba38809efb" title="conn::radiansFromGPSPoint" alt="" coords="301,104,492,129"/>
+<area shape="rect" id="node5" href="$d5/d75/group___conn_namespace.html#ga44bcb66bc97c22dab769857dfb3bfdca" title="conn::calculateEarthRadius" alt="" coords="305,153,488,179"/>
+<area shape="rect" id="node6" href="$d5/d75/group___conn_namespace.html#ga3aced83e77ecfc1892728799ec321705" title="conn::distance" alt="" coords="343,203,450,228"/>
+</map>

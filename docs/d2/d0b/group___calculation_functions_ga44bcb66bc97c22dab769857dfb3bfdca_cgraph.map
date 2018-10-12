@@ -1,0 +1,6 @@
+<map id="conn::calculateEarthRadius" name="conn::calculateEarthRadius">
+<area shape="rect" id="node2" href="$d0/d99/group___test_functions.html#gada176f1cc3b5511efd02eed3cd89e6c0" title="Fails if the parameter is not an appropriate type. " alt="" coords="515,5,720,31"/>
+<area shape="rect" id="node3" href="$d2/d0b/group___calculation_functions.html#ga94160884d7cdc834a9c12a015ed8038c" title="conn::calculateEarthRadius" alt="" coords="260,80,444,105"/>
+<area shape="rect" id="node5" href="$df/d8a/group___convert_functions.html#gac6e3c960067dcd2a3094c863bfdc6d75" title="Converts GPS coordinate to degrees (one&#45;value) " alt="" coords="237,31,467,56"/>
+<area shape="rect" id="node4" href="$df/d8a/group___convert_functions.html#ga780cb4162ad2ac009bcb791d588670a8" title="Converts degrees to radians. " alt="" coords="526,80,709,105"/>
+</map>

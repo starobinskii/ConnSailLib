@@ -1,0 +1,5 @@
+<map id="conn::letterPi" name="conn::letterPi">
+<area shape="rect" id="node2" href="$d1/d21/group___track_functions.html#gab1004d7a85e683156afceb9974db89fb" title="Calculates points that form a sector. " alt="" coords="152,5,246,31"/>
+<area shape="rect" id="node4" href="$d1/d21/group___track_functions.html#ga9c5a54de9ab0dae1f1f545976191df30" title="Calculates points that form a line. " alt="" coords="160,55,239,80"/>
+<area shape="rect" id="node3" href="$d1/d21/group___track_functions.html#ga5bfd8425caa2908528a0b8b286afc0e8" title="Calculates points that form a spiral. " alt="" coords="294,5,384,31"/>
+</map>

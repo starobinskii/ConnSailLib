@@ -1,0 +1,9 @@
+<map id="conn::destinationGPSPoint" name="conn::destinationGPSPoint">
+<area shape="rect" id="node2" href="$d2/d0b/group___calculation_functions.html#gacce99993c753bf8e779cd9c597e667bb" title="Calculates destination point by a given distance and bearing. " alt="" coords="268,86,391,111"/>
+<area shape="rect" id="node5" href="$d2/d0b/group___calculation_functions.html#ga0ba3d27a500dd02620f776ee0cef57f0" title="Calculates distance between two points. " alt="" coords="532,136,640,162"/>
+<area shape="rect" id="node7" href="$df/d8a/group___convert_functions.html#ga98430e1cfe6cec075d771af5d4b1eb1d" title="Converts degrees to a GPS point. " alt="" coords="234,187,425,212"/>
+<area shape="rect" id="node3" href="$d2/d0b/group___calculation_functions.html#gaec0e64538f7823aa845dba37ce7d887a" title="Calculate Earth radius by latitude. " alt="" coords="747,86,931,111"/>
+<area shape="rect" id="node4" href="$df/d8a/group___convert_functions.html#ga780cb4162ad2ac009bcb791d588670a8" title="Converts degrees to radians. " alt="" coords="979,86,1162,111"/>
+<area shape="rect" id="node6" href="$df/d8a/group___convert_functions.html#ga0d6b2d6846bc62d59b0c54b635aa5944" title="Converts radians to degrees. " alt="" coords="493,35,679,60"/>
+<area shape="rect" id="node8" href="$df/d8a/group___convert_functions.html#ga36733d4235410aa6c273f584ed972895" title="Converts degrees to a GPS coordinate. " alt="" coords="473,187,699,212"/>
+</map>

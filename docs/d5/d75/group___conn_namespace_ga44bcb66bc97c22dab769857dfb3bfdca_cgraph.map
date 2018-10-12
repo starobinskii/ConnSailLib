@@ -1,0 +1,6 @@
+<map id="conn::calculateEarthRadius" name="conn::calculateEarthRadius">
+<area shape="rect" id="node2" href="$d5/d75/group___conn_namespace.html#ga6335f71428b9aa298fb49ae34e34b69c" title="conn::failIfNotAGPSCoordinate" alt="" coords="515,5,720,31"/>
+<area shape="rect" id="node3" href="$d5/d75/group___conn_namespace.html#ga94160884d7cdc834a9c12a015ed8038c" title="conn::calculateEarthRadius" alt="" coords="260,80,444,105"/>
+<area shape="rect" id="node5" href="$d5/d75/group___conn_namespace.html#ga199068f230c88c099a5c303f85310586" title="conn::degreesFromGPSCoordinate" alt="" coords="237,31,467,56"/>
+<area shape="rect" id="node4" href="$d5/d75/group___conn_namespace.html#ga0f032ef39e997706e19a216691d066f8" title="conn::radiansFromDegrees" alt="" coords="526,80,709,105"/>
+</map>

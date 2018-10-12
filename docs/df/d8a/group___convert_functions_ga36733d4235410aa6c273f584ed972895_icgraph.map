@@ -1,0 +1,6 @@
+<map id="conn::gpsCoordinateFromDegrees" name="conn::gpsCoordinateFromDegrees">
+<area shape="rect" id="node2" href="$df/d8a/group___convert_functions.html#ga8be22143bb45691360a9282baebcd038" title="Converts radians to a GPS coordinate. " alt="" coords="279,5,504,31"/>
+<area shape="rect" id="node3" href="$df/d8a/group___convert_functions.html#ga98430e1cfe6cec075d771af5d4b1eb1d" title="Converts degrees to a GPS point. " alt="" coords="296,55,487,80"/>
+<area shape="rect" id="node5" href="$df/d8a/group___convert_functions.html#ga3a61553686d040a414cc83f25b68ec57" title="Converts radians to a GPS point. " alt="" coords="297,104,486,129"/>
+<area shape="rect" id="node4" href="$d2/d0b/group___calculation_functions.html#gaecd6049c62ab8ad24f3bde444d6ea051" title="Calculates destination point by a given distance and bearing. " alt="" coords="552,55,732,80"/>
+</map>

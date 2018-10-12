@@ -1,0 +1,7 @@
+<map id="conn::calculateEarthRadius" name="conn::calculateEarthRadius">
+<area shape="rect" id="node2" href="$d2/d0b/group___calculation_functions.html#ga4d3f6b1bf70e2ddd77adb38c18c78f58" title="Calculate Earth radius by latitude. " alt="" coords="237,7,421,32"/>
+<area shape="rect" id="node3" href="$d2/d0b/group___calculation_functions.html#ga0ba3d27a500dd02620f776ee0cef57f0" title="Calculates distance between two points. " alt="" coords="275,56,382,81"/>
+<area shape="rect" id="node5" href="$d2/d0b/group___calculation_functions.html#gacce99993c753bf8e779cd9c597e667bb" title="Calculates destination point by a given distance and bearing. " alt="" coords="469,107,591,132"/>
+<area shape="rect" id="node4" href="$d2/d0b/group___calculation_functions.html#ga09c3b1252bce020fb22b21164a41d0c7" title="Calculates distance between two points. " alt="" coords="476,5,583,31"/>
+<area shape="rect" id="node6" href="$d2/d0b/group___calculation_functions.html#gaecd6049c62ab8ad24f3bde444d6ea051" title="Calculates destination point by a given distance and bearing. " alt="" coords="639,81,819,107"/>
+</map>

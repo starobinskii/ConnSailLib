@@ -1,0 +1,8 @@
+<map id="conn::distance" name="conn::distance">
+<area shape="rect" id="node2" href="$d0/d99/group___test_functions.html#ga37725faf363e64d31207abb2319d0070" title="Fails if the parameter is not an appropriate type. " alt="" coords="191,5,361,31"/>
+<area shape="rect" id="node4" href="$d2/d0b/group___calculation_functions.html#ga0ba3d27a500dd02620f776ee0cef57f0" title="Calculates distance between two points. " alt="" coords="222,104,329,129"/>
+<area shape="rect" id="node7" href="$df/d8a/group___convert_functions.html#gac6e3c960067dcd2a3094c863bfdc6d75" title="Converts GPS coordinate to degrees (one&#45;value) " alt="" coords="161,55,391,80"/>
+<area shape="rect" id="node3" href="$d0/d99/group___test_functions.html#gada176f1cc3b5511efd02eed3cd89e6c0" title="Fails if the parameter is not an appropriate type. " alt="" coords="439,17,644,43"/>
+<area shape="rect" id="node5" href="$d2/d0b/group___calculation_functions.html#gaec0e64538f7823aa845dba37ce7d887a" title="Calculate Earth radius by latitude. " alt="" coords="450,91,633,116"/>
+<area shape="rect" id="node6" href="$df/d8a/group___convert_functions.html#ga780cb4162ad2ac009bcb791d588670a8" title="Converts degrees to radians. " alt="" coords="692,116,875,141"/>
+</map>

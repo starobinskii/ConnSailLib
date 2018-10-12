@@ -1,0 +1,5 @@
+<map id="conn::degreesFromGPSPoint" name="conn::degreesFromGPSPoint">
+<area shape="rect" id="node2" href="$d0/d99/group___test_functions.html#ga69a9c980a0872e4d8ddab02de852f221" title="conn::failIfNotAGPSPoint" alt="" coords="279,5,449,31"/>
+<area shape="rect" id="node4" href="$df/d8a/group___convert_functions.html#ga199068f230c88c099a5c303f85310586" title="conn::degreesFromGPSCoordinate" alt="" coords="249,55,479,80"/>
+<area shape="rect" id="node3" href="$d0/d99/group___test_functions.html#ga6335f71428b9aa298fb49ae34e34b69c" title="conn::failIfNotAGPSCoordinate" alt="" coords="527,31,732,56"/>
+</map>

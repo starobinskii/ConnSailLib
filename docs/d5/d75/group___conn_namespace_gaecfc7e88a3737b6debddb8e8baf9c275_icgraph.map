@@ -1,0 +1,6 @@
+<map id="conn::gpsCoordinateFromDegrees" name="conn::gpsCoordinateFromDegrees">
+<area shape="rect" id="node2" href="$d5/d75/group___conn_namespace.html#ga78e373156f35c0588f148ec3fe82f02b" title="conn::gpsCoordinateFromRadians" alt="" coords="279,5,504,31"/>
+<area shape="rect" id="node3" href="$d5/d75/group___conn_namespace.html#ga141c39eaa0fd0214db3eea4c500155e0" title="conn::gpsPointFromDegrees" alt="" coords="296,55,487,80"/>
+<area shape="rect" id="node5" href="$d5/d75/group___conn_namespace.html#gaedf496bd389cb90550720eaefa7c8897" title="conn::gpsPointFromRadians" alt="" coords="297,104,486,129"/>
+<area shape="rect" id="node4" href="$d5/d75/group___conn_namespace.html#ga9deb971309da20b8d6d156199514a5e3" title="conn::destinationGPSPoint" alt="" coords="552,55,732,80"/>
+</map>

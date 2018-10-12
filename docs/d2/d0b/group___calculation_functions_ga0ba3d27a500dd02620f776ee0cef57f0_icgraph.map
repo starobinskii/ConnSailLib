@@ -1,0 +1,5 @@
+<map id="conn::distance" name="conn::distance">
+<area shape="rect" id="node2" href="$d2/d0b/group___calculation_functions.html#ga09c3b1252bce020fb22b21164a41d0c7" title="Calculates distance between two points. " alt="" coords="168,5,275,31"/>
+<area shape="rect" id="node3" href="$d2/d0b/group___calculation_functions.html#gacce99993c753bf8e779cd9c597e667bb" title="Calculates destination point by a given distance and bearing. " alt="" coords="161,55,283,80"/>
+<area shape="rect" id="node4" href="$d2/d0b/group___calculation_functions.html#gaecd6049c62ab8ad24f3bde444d6ea051" title="Calculates destination point by a given distance and bearing. " alt="" coords="331,80,511,105"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="conn::degreesFromGPSPoint" name="conn::degreesFromGPSPoint">
+<area shape="rect" id="node2" href="$d0/d99/group___test_functions.html#ga37725faf363e64d31207abb2319d0070" title="Fails if the parameter is not an appropriate type. " alt="" coords="279,5,449,31"/>
+<area shape="rect" id="node4" href="$df/d8a/group___convert_functions.html#gac6e3c960067dcd2a3094c863bfdc6d75" title="Converts GPS coordinate to degrees (one&#45;value) " alt="" coords="249,55,479,80"/>
+<area shape="rect" id="node3" href="$d0/d99/group___test_functions.html#gada176f1cc3b5511efd02eed3cd89e6c0" title="Fails if the parameter is not an appropriate type. " alt="" coords="527,31,732,56"/>
+</map>

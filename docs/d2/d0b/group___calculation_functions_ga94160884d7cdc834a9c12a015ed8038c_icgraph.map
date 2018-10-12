@@ -1,0 +1,7 @@
+<map id="conn::calculateEarthRadius" name="conn::calculateEarthRadius">
+<area shape="rect" id="node2" href="$d2/d0b/group___calculation_functions.html#ga44bcb66bc97c22dab769857dfb3bfdca" title="conn::calculateEarthRadius" alt="" coords="237,7,421,32"/>
+<area shape="rect" id="node3" href="$d2/d0b/group___calculation_functions.html#ga43413ef3bee3b95ef63b3b58927eccb5" title="Vincenty&#39;s algorithm? This is Haversine formula. " alt="" coords="275,56,382,81"/>
+<area shape="rect" id="node5" href="$d2/d0b/group___calculation_functions.html#ga5da845dce91b6840e895c1734caac023" title="conn::destination" alt="" coords="469,107,591,132"/>
+<area shape="rect" id="node4" href="$d2/d0b/group___calculation_functions.html#ga3aced83e77ecfc1892728799ec321705" title="conn::distance" alt="" coords="476,5,583,31"/>
+<area shape="rect" id="node6" href="$d2/d0b/group___calculation_functions.html#ga9deb971309da20b8d6d156199514a5e3" title="conn::destinationGPSPoint" alt="" coords="639,81,819,107"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="conn::destination" name="conn::destination">
+<area shape="rect" id="node2" href="$d2/d0b/group___calculation_functions.html#gaec0e64538f7823aa845dba37ce7d887a" title="Calculate Earth radius by latitude. " alt="" coords="409,28,593,53"/>
+<area shape="rect" id="node3" href="$df/d8a/group___convert_functions.html#ga780cb4162ad2ac009bcb791d588670a8" title="Converts degrees to radians. " alt="" coords="641,28,824,53"/>
+<area shape="rect" id="node4" href="$d2/d0b/group___calculation_functions.html#ga0ba3d27a500dd02620f776ee0cef57f0" title="Calculates distance between two points. " alt="" coords="215,78,322,104"/>
+<area shape="rect" id="node5" href="$df/d8a/group___convert_functions.html#ga0d6b2d6846bc62d59b0c54b635aa5944" title="Converts radians to degrees. " alt="" coords="175,128,361,153"/>
+</map>

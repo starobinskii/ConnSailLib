@@ -1,0 +1,10 @@
+<map id="conn::radiansFromDegrees" name="conn::radiansFromDegrees">
+<area shape="rect" id="node2" href="$df/d8a/group___convert_functions.html#ga761601480c4ac4b45b0157cde5336042" title="conn::radiansFromGPSCoordinate" alt="" coords="236,5,462,31"/>
+<area shape="rect" id="node3" href="$df/d8a/group___convert_functions.html#ga329b9219ebbbb2672cad39ba38809efb" title="conn::radiansFromGPSPoint" alt="" coords="254,55,445,80"/>
+<area shape="rect" id="node4" href="$d2/d0b/group___calculation_functions.html#ga94160884d7cdc834a9c12a015ed8038c" title="conn::calculateEarthRadius" alt="" coords="257,156,441,181"/>
+<area shape="rect" id="node6" href="$d2/d0b/group___calculation_functions.html#ga43413ef3bee3b95ef63b3b58927eccb5" title="Vincenty&#39;s algorithm? This is Haversine formula. " alt="" coords="548,105,656,131"/>
+<area shape="rect" id="node8" href="$d2/d0b/group___calculation_functions.html#ga5da845dce91b6840e895c1734caac023" title="conn::destination" alt="" coords="742,205,864,231"/>
+<area shape="rect" id="node5" href="$d2/d0b/group___calculation_functions.html#ga44bcb66bc97c22dab769857dfb3bfdca" title="conn::calculateEarthRadius" alt="" coords="510,155,694,180"/>
+<area shape="rect" id="node7" href="$d2/d0b/group___calculation_functions.html#ga3aced83e77ecfc1892728799ec321705" title="conn::distance" alt="" coords="749,104,856,129"/>
+<area shape="rect" id="node9" href="$d2/d0b/group___calculation_functions.html#ga9deb971309da20b8d6d156199514a5e3" title="conn::destinationGPSPoint" alt="" coords="912,180,1093,205"/>
+</map>

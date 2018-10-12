@@ -1,0 +1,4 @@
+<map id="conn::gpsCoordinateFromRadians" name="conn::gpsCoordinateFromRadians">
+<area shape="rect" id="node2" href="$df/d8a/group___convert_functions.html#ga36733d4235410aa6c273f584ed972895" title="Converts degrees to a GPS coordinate. " alt="" coords="278,5,504,31"/>
+<area shape="rect" id="node3" href="$df/d8a/group___convert_functions.html#ga0d6b2d6846bc62d59b0c54b635aa5944" title="Converts radians to degrees. " alt="" coords="298,55,484,80"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="conn::degreesFromGPSCoordinate" name="conn::degreesFromGPSCoordinate">
+<area shape="rect" id="node2" href="$df/d8a/group___convert_functions.html#ga9e448b72e9be0c0628b715794e481975" title="Converts GPS coordinate to radians (one&#45;value) " alt="" coords="284,5,510,31"/>
+<area shape="rect" id="node3" href="$df/d8a/group___convert_functions.html#gab9b8530b017e248ad1a0fb2bad4991a4" title="Converts GPS point to degrees (one&#45;value) " alt="" coords="299,55,494,80"/>
+<area shape="rect" id="node4" href="$df/d8a/group___convert_functions.html#gae265d8c52692491412186add1fe45467" title="Converts GPS point to radians (one&#45;value) " alt="" coords="301,104,492,129"/>
+<area shape="rect" id="node5" href="$d2/d0b/group___calculation_functions.html#ga4d3f6b1bf70e2ddd77adb38c18c78f58" title="Calculate Earth radius by latitude. " alt="" coords="305,153,488,179"/>
+<area shape="rect" id="node6" href="$d2/d0b/group___calculation_functions.html#ga09c3b1252bce020fb22b21164a41d0c7" title="Calculates distance between two points. " alt="" coords="343,203,450,228"/>
+</map>
